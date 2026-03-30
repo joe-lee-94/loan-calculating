@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://loancalculating.netlify.app/sitemap.xml
+Sitemap: https://joe-lee-94.github.io/20260329_loan-calculating/sitemap.xml
